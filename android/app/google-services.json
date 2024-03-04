@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "801934231614",
+    "project_id": "beta-d8322",
+    "storage_bucket": "beta-d8322.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:801934231614:android:fc046d4a4c5ddf9c2e696f",
+        "android_client_info": {
+          "package_name": "com.example.beta"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCDJjuwN8YmmFoCjlx2DY_p-uHFEEq2_ZU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
